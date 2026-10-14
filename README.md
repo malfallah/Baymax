@@ -8,13 +8,13 @@
 
 One TypeScript codebase for **iOS**, **Android** and the **web**, backed by a secure REST API.
 
-[![CI](https://github.com/ItisMoe/Baymax/actions/workflows/ci.yml/badge.svg)](https://github.com/ItisMoe/Baymax/actions/workflows/ci.yml)
-[![Deploy](https://github.com/ItisMoe/Baymax/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/ItisMoe/Baymax/actions/workflows/deploy-pages.yml)
+[![CI](https://github.com/malfallah/Baymax/actions/workflows/ci.yml/badge.svg)](https://github.com/malfallah/Baymax/actions/workflows/ci.yml)
+[![Deploy](https://github.com/malfallah/Baymax/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/malfallah/Baymax/actions/workflows/deploy-pages.yml)
 ![Expo SDK 57](https://img.shields.io/badge/Expo-SDK%2057-000020?logo=expo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-**[▶ Try the live demo](https://itismoe.github.io/Baymax/)** · [Features](#features) · [Screenshots](#screenshots) · [Quick start](#quick-start) · [Architecture](#architecture) · [API](#api-reference)
+**[▶ Try the live demo](https://malfallah.github.io/Baymax/)** · [Features](#features) · [Screenshots](#screenshots) · [Quick start](#quick-start) · [Architecture](#architecture) · [API](#api-reference)
 
 </div>
 
@@ -47,7 +47,7 @@ One TypeScript codebase for **iOS**, **Android** and the **web**, backed by a se
 - **Adaptive UI** — bottom tabs on phones, a full sidebar and multi-column layouts on tablets and desktop browsers.
 - **Light & dark mode** — follows the system, or choose in Profile.
 - **Accessible** — semantic roles and labels on every control, large touch targets, readable contrast.
-- **Self-contained demo mode** — with no API configured, the app runs a faithful on-device implementation of the API, so the [GitHub Pages site](https://itismoe.github.io/Baymax/) is fully interactive.
+- **Self-contained demo mode** — with no API configured, the app runs a faithful on-device implementation of the API, so the [GitHub Pages site](https://malfallah.github.io/Baymax/) is fully interactive.
 
 ## Screenshots
 
@@ -82,7 +82,7 @@ One TypeScript codebase for **iOS**, **Android** and the **web**, backed by a se
 **Requirements:** Node.js 20+ (22 recommended) and npm 10+. MongoDB is only needed to run the API.
 
 ```bash
-git clone https://github.com/ItisMoe/Baymax.git
+git clone https://github.com/malfallah/Baymax.git
 cd Baymax
 npm install
 ```
